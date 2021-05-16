@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/MenuScreen.jpg</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/MenuFont.spritefont</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/BackgroundMusic.mp3</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Arrow.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/ShootSFX.wav</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Background.jpg</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Player Sprite.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Bullet Sprite.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Alien Sprite.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Health Bar.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Enemy death.wav</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Endfont.spritefont</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/RecTest.png</File>
+    <File>C:/Users/41473/Desktop/ReAL PROJECT/Super Space Shooter/Super Space Shooter/Content/Earth.png</File>
+  </SourceFiles>
+</SourceFileCollection>

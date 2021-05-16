@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Space Shooter", "Super Space Shooter\Super Space Shooter.csproj", "{0C492C11-5249-4D20-8181-77A3FA9C79E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C492C11-5249-4D20-8181-77A3FA9C79E6}.Debug|x86.ActiveCfg = Debug|x86
+		{0C492C11-5249-4D20-8181-77A3FA9C79E6}.Debug|x86.Build.0 = Debug|x86
+		{0C492C11-5249-4D20-8181-77A3FA9C79E6}.Release|x86.ActiveCfg = Release|x86
+		{0C492C11-5249-4D20-8181-77A3FA9C79E6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B60A1E8-DA3B-48BE-A5B0-3736A84C0F59}
+	EndGlobalSection
+EndGlobal

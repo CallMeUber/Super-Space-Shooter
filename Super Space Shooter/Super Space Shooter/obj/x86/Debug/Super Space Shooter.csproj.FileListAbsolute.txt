@@ -1,0 +1,176 @@
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csproj.CoreCompileInputs.cache
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuScreen.xnb
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.exe
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.pdb
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.exe
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.pdb
+c:\users\41473\source\repos\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuScreen.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.exe
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.pdb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csprojResolveAssemblyReference.cache
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csproj.CoreCompileInputs.cache
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.exe
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.pdb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.wma
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Arrow.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\ShootSFX.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Player Sprite.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Bullet Sprite.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Alien Sprite.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Health Bar.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Enemy death.xnb
+C:\Users\41473\Desktop\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Endfont.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Alien Sprite.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Arrow.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Background.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.wma
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Bullet Sprite.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Endfont.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Enemy death.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Health Bar.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuFont.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuScreen.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Player Sprite.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\ShootSFX.xnb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.exe
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.pdb
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csprojResolveAssemblyReference.cache
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csproj.CoreCompileInputs.cache
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.exe
+D:\Users\Jon\Desktop\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.pdb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Alien Sprite.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Arrow.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Background.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.wma
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Bullet Sprite.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Endfont.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Enemy death.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Health Bar.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuFont.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuScreen.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Player Sprite.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\ShootSFX.xnb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.exe
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.pdb
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csprojResolveAssemblyReference.cache
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csproj.CoreCompileInputs.cache
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.exe
+I:\Space Shooter\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.pdb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Alien Sprite.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Arrow.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.wma
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\BackgroundMusic.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Bullet Sprite.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Endfont.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Enemy death.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Health Bar.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\MenuScreen.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Player Sprite.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\ShootSFX.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.exe
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Super Space Shooter.pdb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csprojResolveAssemblyReference.cache
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.csproj.CoreCompileInputs.cache
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.exe
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\obj\x86\Debug\Super Space Shooter.pdb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\RecTest.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Earth.fw.xnb
+C:\Users\41473\Desktop\ReAL PROJECT\Super Space Shooter\Super Space Shooter\bin\Windows\x86\Debug\Content\Earth.xnb
